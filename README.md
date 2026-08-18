@@ -30,9 +30,11 @@ number/date, unit price, and quantity per line item.
    per order) to feed the dashboard.
 
 ## Key Findings
-Across 4,295 scored customers, generating $8,014,549 in total revenue:
+Across 4,295 customer-country segments — representing 4,287 unique customers, 8 of whom
+show purchase activity from more than one country and are therefore scored (and classified
+into a persona) separately per country — generating $8,014,549 in total revenue:
 
-| Persona | Customers | % of Customers | Revenue | % of Revenue | Avg Customer Value |
+| Persona | Segments | % of Segments | Revenue | % of Revenue | Avg Segment Value |
 |---|---|---|---|---|---|
 | Champions | 436 | 10.2% | $3,815,448 | 47.6% | $8,751.03 |
 | Loyal Customers | 816 | 19.0% | $2,075,036 | 25.9% | $2,542.94 |
